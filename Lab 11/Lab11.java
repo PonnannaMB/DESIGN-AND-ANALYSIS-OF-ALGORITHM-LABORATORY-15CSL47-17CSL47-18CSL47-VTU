@@ -30,7 +30,7 @@ class sub
      subset(org,sol,cursum,sum,i+1);
      }
  }
- public static void main(String arg[])
+ public static void main(String args[])
  {
   int i=0,size;
   int cursum=0;
